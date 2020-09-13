@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<name>Home</name>
+	<description>Home Component. This is where it all starts, the main landing site of your application.</description>
+	<version>0.0.1</version>
+	<repo>https://github.com/h-w-f/dashboard-home</repo>
+	<dependencies>
+		<application>
+			<name>Dashboard</name>
+			<repo>https://github.com/h-w-f/dashboard</repo>
+		</application>
+	</dependencies>
+</component>
