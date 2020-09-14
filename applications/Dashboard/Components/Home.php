@@ -2,9 +2,9 @@
 
 namespace Applications\Dashboard\Components;
 
-use System\Base\Controller;
+use System\Base\Component;
 
-class Hello extends Controller
+class Hello extends Component
 {
 	public function view()
 	{
