@@ -7,7 +7,13 @@
 	<dependencies>
 		<application>
 			<name>Dashboard</name>
+			<version>0.0.1</version>
 			<repo>https://github.com/h-w-f/dashboard</repo>
 		</application>
+		<package>
+			<name>Dashboard</name>
+			<version>0.0.1</version>
+			<repo>https://github.com/h-w-f/package-dashboard</repo>
+		</package>
 	</dependencies>
 </component>
