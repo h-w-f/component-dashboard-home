@@ -3,17 +3,18 @@
 	<name>Home</name>
 	<description>Home Component. This is where it all starts, the main landing site of your application.</description>
 	<version>0.0.1</version>
-	<repo>https://github.com/h-w-f/dashboard-home</repo>
+	<repo>https://github.com/h-w-f/component-dashboard-home</repo>
+	<path>/</path>
 	<dependencies>
 		<application>
 			<name>Dashboard</name>
 			<version>0.0.1</version>
-			<repo>https://github.com/h-w-f/dashboard</repo>
+			<repo>https://github.com/h-w-f/application-dashboard</repo>
 		</application>
 		<package>
-			<name>Dashboard</name>
+			<name>Home</name>
 			<version>0.0.1</version>
-			<repo>https://github.com/h-w-f/package-dashboard</repo>
+			<repo>https://github.com/h-w-f/package-dashboard-home</repo>
 		</package>
 	</dependencies>
 </component>
