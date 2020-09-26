@@ -3,7 +3,7 @@
 	<name>Home</name>
 	<displayname>Home Component (Dashboard)</displayname>
 	<description>Home Component. This is where it all starts, the main landing site of your application.</description>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<repo>https://github.com/h-w-f/component-dashboard-home</repo>
 	<path>/</path>
 	<dependencies>
