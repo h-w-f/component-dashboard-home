@@ -13,7 +13,7 @@
 				"repo"		: "https://github.com/h-w-f/core"
 			}
 		},
-		"applications" : {
+		"application" : {
 			"Dashboard" : {
 				"name"		: "Dashboard",
 				"version"	: "0.0.1",
